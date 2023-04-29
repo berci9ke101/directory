@@ -1,3 +1,16 @@
+Package: com.berci9ke101.extendedwhite
+Version: 1.0
+Section: Themes
+Maintainer: berci9ke101
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: package/ExtendedWhite.deb
+Size: 421474
+MD5sum: 7cb2205d22d18c2498e27f80bbb27fbf
+Description: A theme to go with Thine!
+Name: Extended White
+Author: berci9ke101
+
 Package: com.berci9ke101.simplifiedwhite
 Version: 1.2
 Section: Themes
