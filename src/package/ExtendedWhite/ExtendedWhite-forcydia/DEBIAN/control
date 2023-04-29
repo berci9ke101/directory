@@ -1,0 +1,9 @@
+Package: com.berci9ke101.extendedwhite
+Name: Extended White
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme to go with Thine!
+Author: berci9ke101
+Maintainer: berci9ke101
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
