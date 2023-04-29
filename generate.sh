@@ -1,5 +1,6 @@
+#!/bin/sh
 rm Packages
-./dpkg-scanpackages.sh package /dev/null > Packages
+./scripts/dpkg-scanpackages.sh package /dev/null > Packages
 rm Packages.gz
 rm Packages.bz2
 gzip -c9 Packages > Packages.gz
