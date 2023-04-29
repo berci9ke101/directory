@@ -1,0 +1,13 @@
+Package: com.berci9ke101.simplifiedwhite
+Version: 1.2
+Section: Themes
+Maintainer: berci9ke101
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: package/SimplifiedWhite.deb
+Size: 282768
+MD5sum: 2e84e22998090a609b6b25087b262983
+Description: Icon extension for Thine White!
+Name: Simplified White
+Author: berci9ke101
+
